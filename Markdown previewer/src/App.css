@@ -1,0 +1,30 @@
+.app {
+  width: 100%;
+  background-color: #fbfbfb;
+  font-family: sans-serif;
+  padding: 10px;
+  display: flex;
+}
+
+pre {
+  background: white;
+  padding: 5px 0 5px 5px;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: darkgray;
+  color: white;
+}

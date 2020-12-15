@@ -6,13 +6,14 @@ This is a place to store the code for my FreeCodeCamp Projects
 
 A simple React quote generator making calls to a quote API and displaying a random quote from the response.
 
-Live application: [Random Quote Generator](https://quote-genie.netlify.app)
+Live application: <a href="https://quote-genie.netlify.app" target="_blank">Random Quote Generator</a>
 
 ### Pomodoro Clock:
 
 A React Pomodoro Clock using functional components, hooks and timeouts
 
 Live application: [Pomodoro Clock](https://pomodoroclock-fcc.netlify.app/)
+<a href="https://pomodoroclock-fcc.netlify.app/" target="_blank">Pomodoro Clock</a>
 
 ### Drum machine:
 

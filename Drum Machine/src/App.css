@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  font-family: sans-serif;
+  max-width: 500px;
+  background-color: #b3b3b3;
+  border: 10px solid orange;
+  box-sizing: border-box;
+  padding: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .app {
+    width: 100vw;
+    padding: 0;
+    border: 3px solid orange;
+  }
+}
+
+.drum-display {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
+
+.active {
+  color: orangered;
+  box-shadow: none;
+}
+
+.controls {
+  padding: 10px 20px;
+  grid-column-start: 4;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  text-align: center;
+  margin: auto;
+}
+
+.controls h3 {
+  margin: 0;
+}
+
+.switch {
+  background: black;
+  width: 40px;
+  height: 20px;
+  margin: 0 auto 0 auto;
+}
+
+.switch-right {
+  width: 20px;
+  height: 20px;
+  background: blue;
+  float: right;
+}
+
+.switch-left {
+  width: 20px;
+  height: 20px;
+  background: red;
+  float: left;
+}
+
+.display {
+  display: inline-block;
+  background: #808080;
+  padding: 10px 20px;
+  width: 100%;
+  margin: 10px auto 10px auto;
+}

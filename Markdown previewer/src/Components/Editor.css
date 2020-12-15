@@ -1,0 +1,19 @@
+.app__editor {
+  flex: 1;
+  width: 100%;
+}
+
+.editor__header {
+  background: #45b69c;
+  color: white;
+  font-size: 20px;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.editor__text {
+  width: 99.5%;
+  height: 100%;
+  resize: vertical;
+  overflow-y: auto;
+}

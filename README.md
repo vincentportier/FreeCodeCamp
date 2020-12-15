@@ -1,19 +1,24 @@
-# FreeCodeCamp Projects
+# <center>FreeCodeCamp Projects</center>
 
 This is a place to store the code for my FreeCodeCamp Projects
+
+### Javascript Calculator:
+
+A Javascript calculator with a 2 lines display showing the previous operations
+
+Live application: [Calculator](https://calculator-js-fcc.netlify.app)
 
 ### Random Quote Generator:
 
 A simple React quote generator making calls to a quote API and displaying a random quote from the response.
 
-Live application: <a href="https://quote-genie.netlify.app" target="_blank">Random Quote Generator</a>
+Live application: [Randow Quote Generator](https://quote-genie.netlify.app)
 
 ### Pomodoro Clock:
 
 A React Pomodoro Clock using functional components, hooks and timeouts
 
 Live application: [Pomodoro Clock](https://pomodoroclock-fcc.netlify.app/)
-<a href="https://pomodoroclock-fcc.netlify.app/" target="_blank">Pomodoro Clock</a>
 
 ### Drum machine:
 
@@ -26,9 +31,3 @@ Live application: [Drum Machine](https://drummachine-fcc.netlify.app/)
 A React app parsing Markdown text into HTML
 
 Live application: [Markdown Text Editor](https://markdown-prevwr.netlify.app/)
-
-### Javascript Calculator:
-
-A Javascript calculator with a 2 lines display showing the previous operations
-
-Live application: [Calculator](https://calculator-js-fcc.netlify.app)
